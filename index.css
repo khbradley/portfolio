@@ -1,0 +1,52 @@
+body{
+  background-color: #66C1BB;
+  font-family: Verdana, Charcoal, sans-serif;
+  
+}
+
+h2 {
+  color: white;
+  text-shadow: 3px 2px 5px #268B83;
+  vertical-align: middle;
+  padding-top: 15px;
+}
+.navbar{
+  background-color: #E6FBAA;
+}
+.navbar active {
+  background-color: #CDF4F1;
+}
+.dropdown-menu{
+  background-color: #CDF4F1;
+}
+#header {
+  background-image: url("images/stars.png");
+  height: 125px;
+  width: 740px;
+  background-repeat: no-repeat;
+  -webkit-align-content: center;
+  align-content: center;
+  vertical-align: middle;
+}
+.resume{
+  background-color: white;
+  padding: 10px;
+  
+}
+.job-title{
+  font-weight: bold;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1.35em;
+}
+.job-desc{
+  padding-right: 200px;
+  padding-left: 125px;
+}
+h3{
+  padding-left: 25px;
+}
+#own {
+  margin-top: 25px;
+  text-align: right;
+}
